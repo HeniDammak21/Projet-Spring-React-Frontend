@@ -1,0 +1,10 @@
+img{
+    width: 50px;
+    transition: 0.4s;
+
+}
+
+img:hover{
+transform: scale(4);
+z-index: 1000;
+}
